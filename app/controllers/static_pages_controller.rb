@@ -1,6 +1,5 @@
 class StaticPagesController < ApplicationController
   def home
-  	@myvar=3+2
   end
 
   def help
